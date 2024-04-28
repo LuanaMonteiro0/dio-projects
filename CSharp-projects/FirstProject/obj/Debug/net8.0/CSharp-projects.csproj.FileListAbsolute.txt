@@ -1,0 +1,15 @@
+C:\Projetos\dio-projects\CSharp-projects\bin\Debug\net8.0\CSharp-projects.exe
+C:\Projetos\dio-projects\CSharp-projects\bin\Debug\net8.0\CSharp-projects.deps.json
+C:\Projetos\dio-projects\CSharp-projects\bin\Debug\net8.0\CSharp-projects.runtimeconfig.json
+C:\Projetos\dio-projects\CSharp-projects\bin\Debug\net8.0\CSharp-projects.dll
+C:\Projetos\dio-projects\CSharp-projects\bin\Debug\net8.0\CSharp-projects.pdb
+C:\Projetos\dio-projects\CSharp-projects\obj\Debug\net8.0\CSharp-projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\dio-projects\CSharp-projects\obj\Debug\net8.0\CSharp-projects.AssemblyInfoInputs.cache
+C:\Projetos\dio-projects\CSharp-projects\obj\Debug\net8.0\CSharp-projects.AssemblyInfo.cs
+C:\Projetos\dio-projects\CSharp-projects\obj\Debug\net8.0\CSharp-projects.csproj.CoreCompileInputs.cache
+C:\Projetos\dio-projects\CSharp-projects\obj\Debug\net8.0\CSharp-projects.sourcelink.json
+C:\Projetos\dio-projects\CSharp-projects\obj\Debug\net8.0\CSharp-projects.dll
+C:\Projetos\dio-projects\CSharp-projects\obj\Debug\net8.0\refint\CSharp-projects.dll
+C:\Projetos\dio-projects\CSharp-projects\obj\Debug\net8.0\CSharp-projects.pdb
+C:\Projetos\dio-projects\CSharp-projects\obj\Debug\net8.0\CSharp-projects.genruntimeconfig.cache
+C:\Projetos\dio-projects\CSharp-projects\obj\Debug\net8.0\ref\CSharp-projects.dll

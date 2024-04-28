@@ -1,0 +1,15 @@
+C:\Projetos\dio-projects\CSharp-projects\SecondProject\bin\Debug\net8.0\SecondProject.exe
+C:\Projetos\dio-projects\CSharp-projects\SecondProject\bin\Debug\net8.0\SecondProject.deps.json
+C:\Projetos\dio-projects\CSharp-projects\SecondProject\bin\Debug\net8.0\SecondProject.runtimeconfig.json
+C:\Projetos\dio-projects\CSharp-projects\SecondProject\bin\Debug\net8.0\SecondProject.dll
+C:\Projetos\dio-projects\CSharp-projects\SecondProject\bin\Debug\net8.0\SecondProject.pdb
+C:\Projetos\dio-projects\CSharp-projects\SecondProject\obj\Debug\net8.0\SecondProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\dio-projects\CSharp-projects\SecondProject\obj\Debug\net8.0\SecondProject.AssemblyInfoInputs.cache
+C:\Projetos\dio-projects\CSharp-projects\SecondProject\obj\Debug\net8.0\SecondProject.AssemblyInfo.cs
+C:\Projetos\dio-projects\CSharp-projects\SecondProject\obj\Debug\net8.0\SecondProject.csproj.CoreCompileInputs.cache
+C:\Projetos\dio-projects\CSharp-projects\SecondProject\obj\Debug\net8.0\SecondProject.sourcelink.json
+C:\Projetos\dio-projects\CSharp-projects\SecondProject\obj\Debug\net8.0\SecondProject.dll
+C:\Projetos\dio-projects\CSharp-projects\SecondProject\obj\Debug\net8.0\refint\SecondProject.dll
+C:\Projetos\dio-projects\CSharp-projects\SecondProject\obj\Debug\net8.0\SecondProject.pdb
+C:\Projetos\dio-projects\CSharp-projects\SecondProject\obj\Debug\net8.0\SecondProject.genruntimeconfig.cache
+C:\Projetos\dio-projects\CSharp-projects\SecondProject\obj\Debug\net8.0\ref\SecondProject.dll
